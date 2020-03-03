@@ -1,0 +1,19 @@
+{
+  "name": "ts-v2-playground-plugin-study",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Leko/ts-v2-playground-plugin-study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leko/ts-v2-playground-plugin-study/issues"
+  },
+  "homepage": "https://github.com/Leko/ts-v2-playground-plugin-study#readme"
+}
